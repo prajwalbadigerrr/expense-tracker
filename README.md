@@ -2,7 +2,7 @@
 
 A full-stack personal expense tracker built with production-quality patterns.
 
-**Live app:** https://your-app.vercel.app  
+**Live app:** https://expense-tracker-ruddy-sigma-95.vercel.app/  
 **API:** https://expense-tracker-backend-h9ud.onrender.com
 
 ## Stack
